@@ -3,7 +3,7 @@ Aptos Learn Forge
 
 A lightweight React + Vite + Tailwind app for experimenting with Aptos and Move—designed as a starter/learning playground you can extend into an LMS-style dApp (courses, milestones, on-chain proofs, etc.).
 
-Live demo: https://aptos-learn-forge.vercel.app Deployed from this repo.
+Live demo: https://aptos-learn-forge.vercel.app/ Deployed from this repo.
 
 Features
 
